@@ -3,7 +3,7 @@
 ### What is Python?
 Python is a real quick programming language, with _**dynamic typed**_, that supports _multiples programming paradigms_ as: _**procedural programming**_, _**functional programming**_ and _**object-oriented programming**_. It was created by Guido van Rossun, in 1991, and his phillosophy emphasizes __*code redability*__.
 
->Learn more about Python here: ![Link to Python Documentation](https://www.python.org/doc/)
+>Learn more about Python here: [![Python Badge](https://img.shields.io/badge/Python-grey?logo=Python&link=https://www.python.org/doc/)](https://www.python.org/doc/)
 
 ### What is Basic Calculator?
 The _Basic Calculator_ project is a simple project, made in Python, that realizes the _four basic operations of math_: _**Addition**_, _**Subtraction**_, _**Multiplication**_ and _**Division**_.
